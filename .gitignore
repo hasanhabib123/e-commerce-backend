@@ -1,2 +1,14 @@
 node_modules
 config/config.env
+package-lock.json
+
+node_modules
+config.env
+.DS_Store
+dist
+dist-ssr
+*.local
+/config.env
+/config/config.env
+
+package-lock.json
