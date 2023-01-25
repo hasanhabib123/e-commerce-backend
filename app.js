@@ -8,7 +8,7 @@ const cors = require('cors');
 // Setting up config file
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use(cors({ origin: "", credentials: true}));
+app.use(cors({ origin: "https://63d0e44d9c5cc22856370c47--stunning-malabi-7f47f3.netlify.app", credentials: true}));
 // const corsOptions ={
 //     origin:'http://localhost:3000', 
 //     credentials:true,            //access-control-allow-credentials:true
