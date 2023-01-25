@@ -1,7 +1,7 @@
 const express = require('express');
 const {
   getDashboardStateAndGraphData,
-} = require('../controllers/deshboardController');
+} = require('../controllers/dashboardController');
 const {
   createProduct,
   getAllProducts,
